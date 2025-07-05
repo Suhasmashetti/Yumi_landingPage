@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'yumi-gradient': "linear-gradient(161deg, rgba(0, 0, 0, 1) 79%, rgba(201, 242, 153, 0.44) 100%, rgba(201, 242, 153, 0.19) 100%)",
+        'yumi-gradient': "linear-gradient(161deg, rgba(0, 0, 0, 1) 79%, rgba(201, 242, 153, 0.25) 100%, rgba(201, 242, 153, 0.24) 100%)",
       },
       colors: {
         accent: '#C9F299',
