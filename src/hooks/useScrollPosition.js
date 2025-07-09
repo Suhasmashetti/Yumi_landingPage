@@ -1,4 +1,3 @@
-// File: src/hooks/useScrollPosition.js
 import { useState, useEffect } from 'react';
 
 const useScrollPosition = () => {

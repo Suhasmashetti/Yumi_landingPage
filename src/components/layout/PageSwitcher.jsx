@@ -26,7 +26,7 @@ const PageSwitcher = () => {
           Merchant
         </button>
       </div>
-      <div className='bg-black'>
+      
       <div className="md:hidden fixed bottom-6 left-1/2 transform -translate-x-1/2 bg-white/10 backdrop-blur-sm rounded-full p-1 z-50 border border-white/20 flex items-center gap-1">
         <button
           onClick={() => navigate('/')}
@@ -48,7 +48,6 @@ const PageSwitcher = () => {
         >
           <span className="mr-2"></span> Merchant
         </button>
-      </div>
       </div>
     </>
   );
